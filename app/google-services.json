@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "722619928447",
+    "firebase_url": "https://driver-efa84.firebaseio.com",
+    "project_id": "driver-efa84",
+    "storage_bucket": "driver-efa84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722619928447:android:3441132f68e7367f",
+        "android_client_info": {
+          "package_name": "com.romarinichgmail.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722619928447-1qp5qjh770k2ef0q20285ohpibm31eue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.romarinichgmail.driver",
+            "certificate_hash": "e1bb611b3c33876f3aa84942158bb3adf7b16e98"
+          }
+        },
+        {
+          "client_id": "722619928447-9n5ij9onvlj7krlkvbk4850paej37sb4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "722619928447-9n5ij9onvlj7krlkvbk4850paej37sb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOooKk6q7IWymVaZoYnBSFYCn1YPr4R8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722619928447-9n5ij9onvlj7krlkvbk4850paej37sb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
